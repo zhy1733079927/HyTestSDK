@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HyTestSDK_Tests' do
+  pod 'HyTestSDK', :path => '../'
+  
+  
+end
